@@ -2,7 +2,7 @@
 
 Reports of [**Flickr Tasks**](https://github.com/HaraldoAlbergaria/flickr-tasks) scripts in HTML format.
 
-## [Group Admin](https://haraldoalbergaria.github.io/flickr-reports/group-admin/)
+## Group Admin
 
 ### Daily
 - [Canon EF-S @10mm](https://haraldoalbergaria.github.io/flickr-reports/group-admin/Canon_EF-S_@10mm.daily.html)
