@@ -1,6 +1,6 @@
 # Flickr Reports
 
-Reports of [**Flickr Tasks**](https://github.com/HaraldoAlbergaria/flickr-tasks) scripts in HTML format.
+Reports of [**Flickr Tasks**](https://haraldoalbergaria.github.io/flickr-tasks/) scripts in HTML format.
 
 ## Group Admin
 
